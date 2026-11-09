@@ -45,6 +45,12 @@
 
 安装及使用：https://233boy.com/sing-box/sing-box-script/
 
+# 安装
+
+wget https://github.com/creenson/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+
+bash <(wget https://github.com/creenson/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l)
+
 # 帮助
 
 使用：`sing-box help`
